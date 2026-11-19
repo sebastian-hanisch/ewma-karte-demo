@@ -1,7 +1,6 @@
 # EWMA-Karte: wer schneller ist, hängt am Maß – Streamlit-Demo
 
-<!-- Live-Link nach dem Deploy direkt hierher setzen (Leerzeile davor und danach):
-**[→ Demo live ausprobieren](https://sebastianhanisch-ewma-karte-demo.streamlit.app/)** -->
+**[→ Demo live ausprobieren](https://sebastianhanisch-ewma-karte-demo.streamlit.app/)**
 
 Stück 3 der **Änderungserkennung** („Wie schnell merkt man, dass sich etwas geändert hat?“) in der „Konzepte“-Reihe für die Website „Sebastian Hanisch – Operations Research und Machine Learning“.
 Vorgänger ist der CUSUM gegen die Karte ohne Gedächtnis (Stück 2), Nachfolger das Schätzen der Parameter (Stück 4). Die Kante ist ein **Fix**: Stück 2 endet mit der Annahme, der Vergleich zweier Karten bei
